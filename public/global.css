@@ -74,7 +74,7 @@ img {
 
 /* Card */
 .card {
-	background-color: var(--background);
+	background-color: var(--card-background);
 	-webkit-box-shadow: var(--card-shadow);
 	-moz-box-shadow: var(--card-shadow);
 	box-shadow: var(--card-shadow);

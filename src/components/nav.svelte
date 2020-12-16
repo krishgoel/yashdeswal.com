@@ -17,9 +17,9 @@
     <div class="row">
         <div class="col-lg-12" style="display: inline">
             {#if !darkMode}
-            <a on:click={themeToggle} style="display: inline">🌞</a>
+            <button on:click={themeToggle} style="display: inline">🌞</button>
             {:else}
-            <a on:click={themeToggle} style="display: inline">🌜</a>
+            <button on:click={themeToggle} style="display: inline">🌜</button>
             {/if}
             <p style="display: inline">
                 &nbsp; &nbsp;
@@ -35,5 +35,11 @@
     nav {
         text-align: right;
         padding-top: 20px;
+    }
+
+    button {
+        outline: none;
+        border: none;
+        background: rgba(0,0,0,0);
     }
 </style>
