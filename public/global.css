@@ -44,6 +44,7 @@ p a {
 	box-shadow: inset 0 -8px 0 var(--link-underline);
 	transition: 0.2s;
 	cursor: default;
+	color: var(--body);
 }
 p a:hover {
 	box-shadow: inset 0px -20px 0 var(--link-underline);

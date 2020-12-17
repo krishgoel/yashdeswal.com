@@ -21,10 +21,10 @@
             {:else}
             <button on:click={themeToggle} style="display: inline">🌜</button>
             {/if}
-            <p style="display: inline">
+            <!-- <p style="display: inline">
                 &nbsp; &nbsp;
                 <a>Résumé</a>
-            </p>
+            </p> -->
         </div>
     </div>
     <div class="width-restriction">

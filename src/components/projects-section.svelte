@@ -11,7 +11,7 @@
                     <p class="bold">🚀 Concept Documentation</p>
                     <p>Eyena is an IoT based smart mirror that measures your body temperature upon detecting your presence without any physical contact. The project isn't econonmically feasible with the current technology, hence I had to postpone it indefinitely.</p>
                     <p>
-                        <a>Github</a>
+                        <a href="https://krishgoel.herokuapp.com/projects/eyena">Documentation</a>
                     </p>
                     <br/>
                 </div>
@@ -25,7 +25,7 @@
                     <p class="bold">🚀 Concept Documentation</p>
                     <p>A subscription-based STEM Kits delivery service model that Kartik Gupta and I developed for an IT event.</p>
                     <p>
-                        <a>Documentation</a>
+                        <a href="https://krishgoel.herokuapp.com/projects/binarybox">Documentation</a>
                     </p>
                     <br/>
                 </div>

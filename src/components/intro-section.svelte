@@ -3,17 +3,15 @@
         <div class="col-lg-6">
             <p class="bold" style="margin-bottom: 0">Hi, I am</p>
             <h1>Yash Deswal</h1>
-            <h3 class="italic">aka The Sanskriti Scandal</h3>
+            <!-- <h3 class="italic">aka The Sanskriti Scandal</h3> -->
             <p>
-                I’m a technophile and a full-time aspiring engineering student at Sanskriti School, New Delhi.
+                A 12th grade student at Sanskriti School, New Delhi.
             </p>
             <p>
-                Web development and programming being my métier, I’m currently learning how to teach the machines to think autonomously and working on a smart streetwear fashion startup. This is a 
-                <a>test link</a>
-                .
+                I love Debating, Coding and Maths. I've attended over 21 MUN conferences, and won several awards. I've had a keen interest in coding since 9th grade and have made several collaborative projects and conceptual tech ideas that would help simplify the world's complexities.
             </p>
             <p>
-                Bricolage is my thing and I spent my last 2 summers teaching younger students the intricacies of coding. Looking at the bigger picture, I aspire to develop ‘smarter’ energy sources and solve global-ecological problems with the lines I type.
+                I regularly update myself on world politics and am constantly watching numberphile videos and trying to prepare for the JEE.
             </p>
             <br/>
         </div>
