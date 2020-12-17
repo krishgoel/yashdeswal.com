@@ -16,7 +16,7 @@
             <br/>
         </div>
         <div class="col-lg-6">
-            <img src="images/yash.jpg"/>
+            <img src="images/yash.jpeg"/>
         </div>
     </div>
 </section>
