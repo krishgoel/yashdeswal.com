@@ -8,7 +8,7 @@
                 A 12th grade student at Sanskriti School, New Delhi.
             </p>
             <p>
-                I've attended over 21 MUN conferences and won several awards.RAGHAV IS A BIGBOY MANDEM WITH A SMALL DONNY MADTING. I've had a keen interest in coding since 9th grade and have made several collaborative projects and conceptual tech ideas that would help simplify the world's complexities.
+                I've attended over 21 MUN conferences and won several awards. I've had a keen interest in coding since 9th grade and have made several collaborative projects and conceptual tech ideas that would help simplify the world's complexities.
             </p>
             <p>
                 My avid interest in Mathematics is satiated through the personal research I carry out in the field, ranging from watching Numberphile videos to professional research papers. This desire for knowledge has also permeated across subjects, leading me to update myself on world politics regularly. Finally, as any aspiring engineering student, I am currently preparing for the JEE.
